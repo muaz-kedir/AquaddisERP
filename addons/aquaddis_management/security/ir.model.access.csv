@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_aquaddis_department_user,aquaddis.department.user,model_aquaddis_department,base.group_user,1,1,1,1
+access_aquaddis_employee_user,aquaddis.employee.user,model_aquaddis_employee,base.group_user,1,1,1,1
